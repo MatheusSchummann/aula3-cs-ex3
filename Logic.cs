@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace aula_3_ex3
 {
-    internal class Logic
+    public class Logic
     {
         public void logistica(int valor) 
         {
