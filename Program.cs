@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace aula_3_ex3
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
