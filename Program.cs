@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace aula_3_ex3
 {
+    /* Escreva um programa em C# que lê um valor inteiro em reais e calcula e escreve 
+    qual o menor número possível de notas de 100,50,20,10,5,2 e 1 real em que o 
+    valor pode ser decomposto.*/
+    
     public class Program
     {
         static void Main(string[] args)
